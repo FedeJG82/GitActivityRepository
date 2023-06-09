@@ -1,0 +1,15 @@
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\bin\Debug\net6.0\LuporiConsole.exe
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\bin\Debug\net6.0\LuporiConsole.deps.json
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\bin\Debug\net6.0\LuporiConsole.runtimeconfig.json
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\bin\Debug\net6.0\LuporiConsole.dll
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\bin\Debug\net6.0\LuporiConsole.pdb
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\LuporiConsole.csproj.AssemblyReference.cache
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\LuporiConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\LuporiConsole.AssemblyInfoInputs.cache
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\LuporiConsole.AssemblyInfo.cs
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\LuporiConsole.csproj.CoreCompileInputs.cache
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\LuporiConsole.dll
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\refint\LuporiConsole.dll
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\LuporiConsole.pdb
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\LuporiConsole.genruntimeconfig.cache
+C:\Users\tango\Documents\GitHub\GitActivityRepository\LuporiConsole\obj\Debug\net6.0\ref\LuporiConsole.dll
