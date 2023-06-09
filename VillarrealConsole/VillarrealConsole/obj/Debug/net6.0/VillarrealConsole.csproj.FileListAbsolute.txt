@@ -1,0 +1,15 @@
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\bin\Debug\net6.0\VillarrealConsole.exe
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\bin\Debug\net6.0\VillarrealConsole.deps.json
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\bin\Debug\net6.0\VillarrealConsole.runtimeconfig.json
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\bin\Debug\net6.0\VillarrealConsole.dll
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\bin\Debug\net6.0\VillarrealConsole.pdb
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\VillarrealConsole.csproj.AssemblyReference.cache
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\VillarrealConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\VillarrealConsole.AssemblyInfoInputs.cache
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\VillarrealConsole.AssemblyInfo.cs
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\VillarrealConsole.csproj.CoreCompileInputs.cache
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\VillarrealConsole.dll
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\refint\VillarrealConsole.dll
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\VillarrealConsole.pdb
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\VillarrealConsole.genruntimeconfig.cache
+C:\Users\terciario\Documents\GitHub\GitActivityRepository\VillarrealConsole\VillarrealConsole\obj\Debug\net6.0\ref\VillarrealConsole.dll
