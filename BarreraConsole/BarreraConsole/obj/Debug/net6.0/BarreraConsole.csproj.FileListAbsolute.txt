@@ -1,0 +1,15 @@
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\BarreraConsole.csproj.AssemblyReference.cache
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\BarreraConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\BarreraConsole.AssemblyInfoInputs.cache
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\BarreraConsole.AssemblyInfo.cs
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\BarreraConsole.csproj.CoreCompileInputs.cache
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\bin\Debug\net6.0\BarreraConsole.exe
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\bin\Debug\net6.0\BarreraConsole.deps.json
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\bin\Debug\net6.0\BarreraConsole.runtimeconfig.json
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\bin\Debug\net6.0\BarreraConsole.dll
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\bin\Debug\net6.0\BarreraConsole.pdb
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\BarreraConsole.dll
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\refint\BarreraConsole.dll
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\BarreraConsole.pdb
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\BarreraConsole.genruntimeconfig.cache
+C:\Users\terciario\Desktop\GitActivityRepository\BarreraConsole\BarreraConsole\obj\Debug\net6.0\ref\BarreraConsole.dll

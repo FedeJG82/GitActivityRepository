@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tango\\Desktop\\kaki\\BarreraConsole\\BarreraConsole\\BarreraConsole.csproj": {}
+    "C:\\Users\\terciario\\Desktop\\GitActivityRepository\\BarreraConsole\\BarreraConsole\\BarreraConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tango\\Desktop\\kaki\\BarreraConsole\\BarreraConsole\\BarreraConsole.csproj": {
+    "C:\\Users\\terciario\\Desktop\\GitActivityRepository\\BarreraConsole\\BarreraConsole\\BarreraConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tango\\Desktop\\kaki\\BarreraConsole\\BarreraConsole\\BarreraConsole.csproj",
+        "projectUniqueName": "C:\\Users\\terciario\\Desktop\\GitActivityRepository\\BarreraConsole\\BarreraConsole\\BarreraConsole.csproj",
         "projectName": "BarreraConsole",
-        "projectPath": "C:\\Users\\tango\\Desktop\\kaki\\BarreraConsole\\BarreraConsole\\BarreraConsole.csproj",
-        "packagesPath": "C:\\Users\\tango\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tango\\Desktop\\kaki\\BarreraConsole\\BarreraConsole\\obj\\",
+        "projectPath": "C:\\Users\\terciario\\Desktop\\GitActivityRepository\\BarreraConsole\\BarreraConsole\\BarreraConsole.csproj",
+        "packagesPath": "C:\\Users\\terciario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\terciario\\Desktop\\GitActivityRepository\\BarreraConsole\\BarreraConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tango\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\terciario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
